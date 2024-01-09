@@ -8,7 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently working at [Blip]([https://www.linkedin.com/company/blip/](https://www.linkedin.com/company/blipbr/)).
+- 🔭 I’m currently working at [Blip](https://www.linkedin.com/company/blipbr/).
 <div align="center">
 
 ## 💻 My Tech Stack:
