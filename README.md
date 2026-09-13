@@ -8,7 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently working at [Blip](https://www.linkedin.com/company/blipbr/).
+- 🔭 I’m Tech Lead in currently working at [Blip](https://www.linkedin.com/company/blipbr/).
 - 💻 I currently create and maintain chatbot applications in JS, integrate third-party APIs with C#, analyze the performance of smart contacts, update technical documentation and handle calls and use the agile kanban methodology
 <div align="center">
 
